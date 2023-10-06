@@ -13,3 +13,8 @@
         margin-top: 15px;
         margin-bottom: 5px;
     }
+
+    .container__menu-title > hr > img{
+        margin: 2px;
+        padding: 50;
+    }
